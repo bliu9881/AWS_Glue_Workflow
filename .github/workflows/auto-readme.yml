@@ -13,7 +13,7 @@ on:
   # *  *  *  *  * user-name command to be executed
 
   # Update README.md nightly at 4am UTC
-  - cron:  '0 4 * * *'
+  #- cron:  '0 4 * * *'
 
 jobs:
   update:
